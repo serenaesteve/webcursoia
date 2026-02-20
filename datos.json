@@ -1,0 +1,107 @@
+
+{
+  "titulo1": "Curso IA en Directo",
+  "titulo2": "Programación · Streaming · Práctico",
+
+  "title_full": "Curso IA en Directo para Programadores (Streaming en vivo) | Proyectos reales",
+  "meta_description": "Curso online de IA para programadores en streaming (clases en vivo). Aprende prompts, RAG, agentes, evaluación y despliegue con proyectos end-to-end y soporte.",
+  "meta_robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1",
+  "theme_color": "#f39a1a",
+
+  "canonical": "https://tucursoia.com/",
+  "favicon": "/favicon.png",
+  "apple_touch_icon": "/apple-touch-icon.png",
+
+  "og_site_name": "Curso IA en Directo",
+  "og_title": "Curso IA en Directo para Programadores (Streaming en vivo)",
+  "og_description": "Aprende IA aplicada a desarrollo con clases en vivo: prompts, RAG, agentes, evaluación, despliegue y automatización. Enfoque práctico con proyectos.",
+  "og_image": "https://tucursoia.com/og.jpg",
+  "og_image_alt": "Curso IA en Directo para Programadores",
+
+  "twitter_title": "Curso IA en Directo (Streaming en vivo)",
+  "twitter_description": "IA aplicada a desarrollo: proyectos reales, RAG, agentes, evaluación y despliegue.",
+  "twitter_image": "https://tucursoia.com/og.jpg",
+
+  "brand_name": "Curso IA en Directo",
+  "brand_logo_alt": "Logo del Curso IA en Directo",
+
+  "enlace 1": "Inicio",
+  "enlace 2": "Metodología",
+  "enlace 3": "Temario",
+  "enlace 4": "Sobre el curso",
+  "enlace 5": "Inscripción",
+
+  "heroetitulo": "IA para Programadores, en Directo: aprende creando proyectos reales.",
+  "heroetexto": "Curso online en streaming (clases en vivo) para dominar IA aplicada a desarrollo: prompts, RAG, agentes, evaluación, despliegue y automatización. Enfoque 100% práctico, con soporte y material descargable.",
+  "heroeaccion": "Quiero reservar plaza",
+  "hero_micro": "Clases en vivo + grabaciones + materiales · Nivel: intermedio · Cupos limitados.",
+
+  "destacado1titulo": "No es un curso grabado. Es un taller en vivo.",
+  "destacado1texto": "Sesiones en directo con ejercicios guiados, revisión de código y resolución de dudas en tiempo real. Sales con un sistema funcionando: desde un chatbot útil hasta una app de IA integrada en tu stack.",
+  "destacado1_img_alt": "Taller en vivo de programación con IA",
+
+  "destacado2titulo": "En la intersección entre IA, producto y software profesional.",
+  "destacado2texto": "Aprenderás a construir soluciones de IA que aportan valor: asistentes para tu negocio, generación de contenido controlada, búsqueda semántica con tus documentos, y automatizaciones con agentes. Sin humo: métricas, pruebas y buenas prácticas.",
+  "destacado2accion": "Ver cómo trabajamos",
+  "destacado2_img_alt": "Desarrollo de soluciones de IA con enfoque profesional",
+
+  "destacado3titulo": "Acompañamiento + Tecnología + Proyectos",
+  "destacado3texto": "Combina clases en vivo, ejercicios paso a paso y plantillas listas para usar. Te llevas repositorios, checklists y una guía clara para pasar de ‘probar’ IA a ‘usar’ IA en producción.",
+  "destacado3_icon_alt": "Icono de acompañamiento y proyectos",
+
+  "destacado4titulo": "Aprende a programar IA de forma moderna (y segura).",
+  "destacado4texto": "Diseñarás prompts robustos, implementarás RAG, crearás agentes con herramientas y memoria, y montarás pipelines con control de calidad. Además: privacidad, costes, y patrones para evitar resultados erráticos.",
+  "destacado4accion": "Quiero el temario",
+  "destacado4_img_alt": "Arquitectura moderna para aplicaciones con IA",
+
+  "destacado5titulo1": "Tutoriales sueltos y ejemplos sin contexto no escalan",
+  "destacado5texto1": "Mucho contenido de IA se queda en demos. Aquí construimos un sistema completo, con arquitectura, pruebas, evaluación y despliegue para que puedas reutilizarlo en tus proyectos reales.",
+  "destacado5titulo2": "Estrategias inmersivas y orientadas a resultados",
+  "destacado5texto2": "Cada módulo termina con un entregable: una herramienta funcional (chatbot, buscador semántico, agente, evaluador, automatización) y una lista de verificación para adaptarlo a tu caso.",
+
+  "destacado6titulo1": "No más diapositivas. Código en directo y práctica guiada.",
+  "destacado6texto1": "Clases en vivo centradas en programar: diseño, implementación, depuración y mejora. Acceso a grabaciones, materiales y sesiones de preguntas para consolidar lo aprendido.",
+  "destacado6accion": "Ver fechas y formato",
+
+  "destacado7titulo1": "Por qué este curso — cuando quieres resultados reales",
+  "destacado7texto1": "La mayoría aprende IA como curiosidad. Tú vas a aprender IA como herramienta profesional, con una ruta clara y ejercicios aplicables desde el primer día.",
+  "destacado7texto2": "Te enseñamos a integrar IA en tus apps: APIs, bases de conocimiento, herramientas, evaluación de respuestas, control de costes y despliegue.",
+  "destacado7texto3": "Programar IA no es solo ‘usar ChatGPT’: es diseñar sistemas fiables, medibles y mantenibles.",
+
+  "destacado8titulo": "De la idea al proyecto: construye tu asistente de IA end-to-end",
+  "destacado8texto": "Termina el curso con un proyecto final completo: una aplicación con interfaz, backend, base de conocimiento (RAG), logs, métricas y mejoras iterativas para que puedas enseñarlo, venderlo o usarlo en tu empresa.",
+  "destacado8accion": "Quiero apuntarme",
+  "destacado8_img_alt": "Proyecto final end-to-end con RAG y métricas",
+
+  "destacado9titulo": "Para programadores, equipos y emprendedores",
+  "destacado9texto": "Diseñado para quienes ya programan y quieren aplicar IA de forma práctica: automatización, asistentes internos, soporte al cliente, generación de documentación, y herramientas para productividad y negocio.",
+  "destacado9accion": "Solicitar información",
+  "destacado9_img_alt": "IA aplicada para equipos y emprendedores",
+
+  "contact_title": "Contacta e inscríbete",
+  "contact_intro": "El viaje hacia mejores resultados y cultura empieza con una conversación.",
+
+  "form_title": "Contacto",
+  "form_intro": "Cuéntame tu caso y te digo si este curso encaja contigo.",
+  "form_cta": "Enviar mensaje",
+  "form_legal": "Al enviar este formulario aceptas nuestra política de privacidad y el tratamiento de tus datos para responder a tu solicitud.",
+
+  "privacy_url": "/privacy.html",
+  "terms_url": "/terms.html",
+
+  "direccion": "Online · Clases en directo por streaming",
+  "telefono": "+34 600 000 000",
+  "telefono_raw": "+34600000000",
+  "email": "info@tucursoia.com",
+
+  "social_linkedin": "https://www.linkedin.com/",
+  "social_x": "https://x.com/",
+  "social_youtube": "https://www.youtube.com/",
+
+  "hero_image": "hero.jpg",
+
+  "anio": "2026",
+
+  "raw:jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"Organization\",\n      \"name\": \"Curso IA en Directo\",\n      \"url\": \"https://tucursoia.com/\",\n      \"logo\": \"https://tucursoia.com/logo.png\",\n      \"email\": \"info@tucursoia.com\",\n      \"telephone\": \"+34600000000\",\n      \"sameAs\": [\n        \"https://www.linkedin.com/\",\n        \"https://x.com/\",\n        \"https://www.youtube.com/\"\n      ]\n    },\n    {\n      \"@type\": \"WebSite\",\n      \"name\": \"Curso IA en Directo\",\n      \"url\": \"https://tucursoia.com/\",\n      \"inLanguage\": \"es\",\n      \"potentialAction\": {\n        \"@type\": \"SearchAction\",\n        \"target\": \"https://tucursoia.com/?q={search_term_string}\",\n        \"query-input\": \"required name=search_term_string\"\n      }\n    },\n    {\n      \"@type\": \"WebPage\",\n      \"name\": \"Curso IA en Directo para Programadores (Streaming en vivo)\",\n      \"url\": \"https://tucursoia.com/\",\n      \"description\": \"Curso online de IA para programadores en streaming (clases en vivo).\"\n    },\n    {\n      \"@type\": \"Course\",\n      \"name\": \"Curso IA en Directo para Programadores\",\n      \"description\": \"Curso online en streaming (clases en vivo) de IA aplicada a desarrollo: prompts, RAG, agentes, evaluación, despliegue y automatización.\",\n      \"provider\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Curso IA en Directo\",\n        \"sameAs\": \"https://tucursoia.com/\"\n      },\n      \"inLanguage\": \"es\",\n      \"courseMode\": [\"online\", \"live\"],\n      \"audience\": {\n        \"@type\": \"Audience\",\n        \"audienceType\": \"Programadores\"\n      }\n    }\n  ]\n}\n"
+}
+
